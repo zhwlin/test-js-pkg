@@ -1,0 +1,11 @@
+{
+  "name": "@zhwlin/test-js-pkg",
+  "version": "1.0.0",
+  "description": "Deploy js lib to maven.pkg.github.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
