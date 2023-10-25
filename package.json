@@ -7,5 +7,8 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@zhwlin/test-js-pkg": "https://npm.pkg.github.com"
+  } 
 }
